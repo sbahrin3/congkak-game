@@ -1,8 +1,9 @@
 # congkak-game
 
-## Traditional Congkak Board Game of the Malay Archipelago
 
-This game uses a board that has 7 holes at each sides called 'village' which totaled to 14 holes, and 2 larger holes at both ends called 'home'.
+## About Congkak
+
+A Traditional Congkak Board Game of the Malay Archipelago.  This game uses a board that has 7 holes at each sides called 'village' which totaled to 14 holes, and 2 larger holes at both ends called 'home'.
 
 The Congkak game can only be played by two players at a time. The players will sit oppsite of each other and the holes will be filled with 7 seeds in each except the two larger holes which contains no seeds. Each player will start the play simultaneously.
 
@@ -24,3 +25,8 @@ A good Congkak's player need to think, strategise and requires efficiency. Those
 The Benefit of Congkak Game
 
 This games improves players' mathematical thinking and teaches patience and observation skills.
+
+
+## Built with melonJS
+
+melonJS is an open source HTML5 game engine.
