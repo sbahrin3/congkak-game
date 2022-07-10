@@ -149,7 +149,7 @@ function getHighScorers() {
 		xhr.send();
 	};
 
-	var url = resultServerUrl + "/playresult/servlet/my.play.congkak.ListHighScorers";
+	var url = resultServerUrl + "http://mylebah.com/playresult/servlet/my.play.congkak.ListHighScorers";
 
 	getJSON(url,
 			function(err, data) {
