@@ -1,5 +1,10 @@
 # congkak-game
 
+## Play the Game
+
+You can play Congkak here: https://sbahrin3.github.io/congkak-game/
+
+
 
 ## About Congkak
 
